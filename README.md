@@ -2,3 +2,5 @@
 Tugas Matkul Pengenalan Pola
 
 Dikoding bersama mas qolby heh3
+
+sumber abstract : IJCCS
